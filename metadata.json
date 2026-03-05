@@ -1,0 +1,5 @@
+{
+  "name": "FFC Chat",
+  "description": "A specialized AI assistant for FFC Ammonia Plant operations, accessible only to authorized personnel.",
+  "requestFramePermissions": []
+}
