@@ -262,7 +262,7 @@ export default function App() {
                 required
                 value={loginEmailInput}
                 onChange={(e) => setLoginEmailInput(e.target.value)}
-                placeholder="m.ans@ffc.com.pk"
+                placeholder="xyz@ffc.com.pk"
                 className="w-full px-4 py-3 bg-[#f5f5f5] border border-black/10 rounded-xl focus:outline-none focus:ring-2 focus:ring-black/5 transition-all"
               />
               {loginError && (
