@@ -237,7 +237,7 @@ export default function App() {
             <div className="flex justify-center mb-4">
               <ShieldCheck size={48} className="text-emerald-400" />
             </div>
-            <h1 className="text-2xl font-bold tracking-tight">FFC Ammonia Plant</h1>
+            <h1 className="text-2xl font-bold tracking-tight">Ammonia Virtual Assistant</h1>
             <p className="text-white/60 text-sm mt-1">Authorized Access Only</p>
           </div>
           
